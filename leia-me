@@ -2,8 +2,8 @@ Para melhor compreensão do código/classes recomendo esta ordem de leitura
 
 [1] Museum
 [2] MuseumDao
-[3] MuseumAdapter
-[4] DbRoomDatabase
+[3] DbRoomDatabase
+[4] MuseumAdapter
 [5] MuseumRepository
 [6] MuseumViewModel
 [7] MuseumAddEditActivity
